@@ -1,0 +1,50 @@
+E:\Análise de Sistemas\Nova pasta\Colabore\bin\Debug\Colabore.exe.config
+E:\Análise de Sistemas\Nova pasta\Colabore\bin\Debug\Colabore.exe
+E:\Análise de Sistemas\Nova pasta\Colabore\bin\Debug\Colabore.pdb
+E:\Análise de Sistemas\Nova pasta\Colabore\obj\Debug\Colabore.csprojAssemblyReference.cache
+E:\Análise de Sistemas\Nova pasta\Colabore\obj\Debug\Colabore.Form1.resources
+E:\Análise de Sistemas\Nova pasta\Colabore\obj\Debug\Colabore.Properties.Resources.resources
+E:\Análise de Sistemas\Nova pasta\Colabore\obj\Debug\Colabore.csproj.GenerateResource.cache
+E:\Análise de Sistemas\Nova pasta\Colabore\obj\Debug\Colabore.exe
+E:\Análise de Sistemas\Nova pasta\Colabore\obj\Debug\Colabore.pdb
+E:\Análise de Sistemas\Nova pasta\Colabore\obj\Debug\Interop.WMPLib.dll
+E:\Análise de Sistemas\Nova pasta\Colabore\obj\Debug\Colabore.csproj.ResolveComReference.cache
+E:\Análise de Sistemas\Nova pasta\Colabore\obj\Debug\Colabore.frutas.resources
+E:\Análise de Sistemas\Colabore\bin\Debug\Colabore.exe.config
+E:\Análise de Sistemas\Colabore\bin\Debug\Colabore.exe
+E:\Análise de Sistemas\Colabore\bin\Debug\Colabore.pdb
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.csprojAssemblyReference.cache
+E:\Análise de Sistemas\Colabore\obj\Debug\Interop.WMPLib.dll
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.csproj.ResolveComReference.cache
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.frutas.resources
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.Properties.Resources.resources
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.csproj.GenerateResource.cache
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.exe
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.pdb
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.Texto.resources
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.animais.resources
+E:\Análise de Sistemas\Angelo\Colabore\bin\Debug\Colabore.exe.config
+E:\Análise de Sistemas\Angelo\Colabore\bin\Debug\Colabore.exe
+E:\Análise de Sistemas\Angelo\Colabore\bin\Debug\Colabore.pdb
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.csprojAssemblyReference.cache
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Interop.WMPLib.dll
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.csproj.ResolveComReference.cache
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.animais.resources
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.Form1.resources
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.frutas.resources
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.Properties.Resources.resources
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.Texto.resources
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.csproj.GenerateResource.cache
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.exe
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.pdb
+E:\Análise de Sistemas\Angelo\Colabore\bin\Debug\Colabore.exe.manifest
+E:\Análise de Sistemas\Angelo\Colabore\bin\Debug\Colabore.application
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.exe.manifest
+E:\Análise de Sistemas\Angelo\Colabore\obj\Debug\Colabore.application
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.paginainicial.resources
+E:\Análise de Sistemas\Colabore\obj\Debug\Colabore.csproj.CoreCompileInputs.cache
+E:\Análise de Sistemas\Colabore\bin\Debug\Silabas.resx
+E:\Análise de Sistemas\Colabore\bin\Debug\Silabas.cs
+E:\Análise de Sistemas\Colabore\bin\Debug\Silabas.Designer.cs
+E:\Análise de Sistemas\Colabore\obj\Debug\Silabas.silabas.resources
+E:\Análise de Sistemas\Colabore\obj\Debug\cores1.coresForm.resources
